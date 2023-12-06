@@ -1,6 +1,6 @@
 ---
 title: "Cap ou pas Cap"
-date: 2023-10-24T09:03:20-08:00
+date: 2023-12-06T09:03:20-08:00
 draft: false
 ---
 
