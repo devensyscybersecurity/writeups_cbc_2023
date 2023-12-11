@@ -18,7 +18,7 @@ L'interface web représente simplement une carte avec la position actuelle du ba
 
 ![Interface carte](/images/009/01.png)
 
-Lorsqu'on regarde les calls effectués par le client pour récupérer les données de positionnement, on peut observer qu'il s'agit d'une reuqête GraphQL.
+Lorsqu'on regarde les calls effectués par le client pour récupérer les données de positionnement, on peut observer qu'il s'agit d'une requête GraphQL.
 
 ![GraphQL](/images/009/02.png)
 
