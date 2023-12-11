@@ -4,7 +4,7 @@ date: 2023-12-06T09:03:20-08:00
 draft: false
 ---
 
-# SSAT - Cybersecurity Business Convention 2023 - *XXX pts*
+# SSAT - Cybersecurity Business Convention 2023 - *200 pts*
 
 ## Énoncé
 

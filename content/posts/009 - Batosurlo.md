@@ -4,7 +4,7 @@ date: 2023-12-06T09:03:20-08:00
 draft: false
 ---
 
-# Cybersecurity Business Convention 2023 - Batosurlo - *XXX pts*
+# Cybersecurity Business Convention 2023 - Batosurlo - *200 pts*
 
 ## Énoncé
 

@@ -4,7 +4,7 @@ date: 2023-12-06T09:03:20-08:00
 draft: false
 ---
 
-# Fugue Spatiale - Cybersecurity Business Conference 2023 - *XXX pts*
+# Fugue Spatiale - Cybersecurity Business Conference 2023 - *400 pts*
 
 ## Question 01
 

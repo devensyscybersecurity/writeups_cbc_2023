@@ -4,7 +4,7 @@ date: 2023-12-06T09:03:20-08:00
 draft: false
 ---
 
-# EZCrypto - Cybersecurity Business Convention 2023 - *XXX pts*
+# EZCrypto - Cybersecurity Business Convention 2023 - *100 pts*
 
 ## Énoncé
 
